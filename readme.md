@@ -19,6 +19,3 @@ A minimal Docker-based lakehouse project that demonstrates a typical Data Engine
 2. Extract data to MinIO as CSV (`raw/`)  
 3. Transform CSV → Parquet (`processed/`)  
 4. Query Parquet with DuckDB (daily aggregates)
-# docker-lakehouse
-# docker-lakehouse
-# docker-lakehouse
